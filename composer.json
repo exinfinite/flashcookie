@@ -1,0 +1,19 @@
+{
+	"name": "exinfinite/flashcookie",
+	"description": "msg by cookie",
+	"version": "1.0.0",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Exinfinite Chen",
+			"email": "chen.min.home@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Exinfinite\\": "src/"
+		}
+	}
+}
